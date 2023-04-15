@@ -1,5 +1,5 @@
 Hi there 👋
-I am Andrico Mauludi, and here is my Bio
+I am Andrico Mauludi Junianto, You can call me Ico. and here is my info :
 
 - 🔭 I’m currently working on PT. Sigma Cipta Caraka (Telkomsigma) as a Full Stack Developer
 - 👯 I’m looking to collaborate on Backend Developer (Go, PHP, Django) and DevOps
