@@ -7,5 +7,3 @@ I am Andrico Mauludi Junianto, You can call me Ico. and here is my info :
 - 📫 How to reach me: 
 https://www.linkedin.com/in/andrico-mauludi-junianto-b9413b196/
 
-- ⚡ Fun fact: I love to play basketball !!
-
